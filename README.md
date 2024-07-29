@@ -2,7 +2,7 @@
 <h1 align="center"> Stock Prediction  Model </h1>
 
 <p align="center">
-  <img src="https://images.app.goo.gl/9hB6Q22ZvMhBeRgX8"/>
+  <img src="https://s28126.pcdn.co/blogs/ask-experian/wp-content/uploads/what-are-different-types-of-stocks.jpg.optimal.jpg"/>
 </p>
 
 <p align="center">
