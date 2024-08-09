@@ -40,7 +40,7 @@ Data set with historical price information for 3 high growth stocks and bitcoin 
 
 ## Key Findings
 
-NA
+The actual price of the stock prices is almost the same as the predicted prices
 
 ---
 
